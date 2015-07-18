@@ -1,0 +1,39 @@
+{ 
+
+	"name": "nnn", 
+
+	"owners": [ 
+
+		"vinnytestglennon" 
+
+	], 
+
+	"location": {
+		"area": "Barrow Street",
+		"region" : "Dublin",
+		"country-code": "IE"
+	},
+	"features": [
+		{
+			"smokers": false
+		},
+		{
+			"pets": false
+		},
+		{
+			"wifi": true
+		},
+		{
+			"washer": true
+		},
+		{
+			"dryer": true
+		}
+	],
+	"offering": {
+		"bed": 0,
+		"couch": 1
+	},
+	"requests": [ ],
+	"merges": [ ]
+}
